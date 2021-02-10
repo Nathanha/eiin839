@@ -12,3 +12,10 @@ D:\ENSEIGNEMENTS\SoCWS SI4\TD REFLEXION SAMPLE\ReflectionSample\ExternalExeCall\
 D:\ENSEIGNEMENTS\SoCWS SI4\TD REFLEXION SAMPLE\ReflectionSample\ExternalExeCall\obj\Debug\ExternalExeCall.csproj.CoreCompileInputs.cache
 D:\ENSEIGNEMENTS\SoCWS SI4\TD REFLEXION SAMPLE\ReflectionSample\ExternalExeCall\obj\Debug\ExternalExeCall.exe
 D:\ENSEIGNEMENTS\SoCWS SI4\TD REFLEXION SAMPLE\ReflectionSample\ExternalExeCall\obj\Debug\ExternalExeCall.pdb
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\eiin839\TD2\ExternalExeCall\bin\Debug\ExternalExeCall.exe.config
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\eiin839\TD2\ExternalExeCall\bin\Debug\ExternalExeCall.exe
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\eiin839\TD2\ExternalExeCall\bin\Debug\ExternalExeCall.pdb
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\eiin839\TD2\ExternalExeCall\obj\Debug\ExternalExeCall.csprojAssemblyReference.cache
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\eiin839\TD2\ExternalExeCall\obj\Debug\ExternalExeCall.csproj.CoreCompileInputs.cache
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\eiin839\TD2\ExternalExeCall\obj\Debug\ExternalExeCall.exe
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\eiin839\TD2\ExternalExeCall\obj\Debug\ExternalExeCall.pdb

@@ -1,0 +1,7 @@
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\eiin839\TD2\WebDynamic\MyWebServerUrlParser\bin\Debug\MyWebServerUrlParser.exe.config
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\eiin839\TD2\WebDynamic\MyWebServerUrlParser\bin\Debug\MyWebServerUrlParser.exe
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\eiin839\TD2\WebDynamic\MyWebServerUrlParser\bin\Debug\MyWebServerUrlParser.pdb
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\eiin839\TD2\WebDynamic\MyWebServerUrlParser\obj\Debug\MyWebServerUrlParser.csprojAssemblyReference.cache
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\eiin839\TD2\WebDynamic\MyWebServerUrlParser\obj\Debug\MyWebServerUrlParser.csproj.CoreCompileInputs.cache
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\eiin839\TD2\WebDynamic\MyWebServerUrlParser\obj\Debug\MyWebServerUrlParser.exe
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\eiin839\TD2\WebDynamic\MyWebServerUrlParser\obj\Debug\MyWebServerUrlParser.pdb
