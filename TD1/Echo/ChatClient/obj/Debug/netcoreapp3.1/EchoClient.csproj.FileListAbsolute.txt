@@ -36,3 +36,16 @@ A:\Enseignement\Web_Server_and_Client\Web_Server_and_Client - Copie\ChatClient\o
 A:\Enseignement\Web_Server_and_Client\Web_Server_and_Client - Copie\ChatClient\obj\Debug\netcoreapp3.1\EchoClient.dll
 A:\Enseignement\Web_Server_and_Client\Web_Server_and_Client - Copie\ChatClient\obj\Debug\netcoreapp3.1\EchoClient.pdb
 A:\Enseignement\Web_Server_and_Client\Web_Server_and_Client - Copie\ChatClient\obj\Debug\netcoreapp3.1\EchoClient.genruntimeconfig.cache
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\TD\TP1\Echo\ChatClient\bin\Debug\netcoreapp3.1\EchoClient.exe
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\TD\TP1\Echo\ChatClient\bin\Debug\netcoreapp3.1\EchoClient.deps.json
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\TD\TP1\Echo\ChatClient\bin\Debug\netcoreapp3.1\EchoClient.runtimeconfig.json
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\TD\TP1\Echo\ChatClient\bin\Debug\netcoreapp3.1\EchoClient.runtimeconfig.dev.json
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\TD\TP1\Echo\ChatClient\bin\Debug\netcoreapp3.1\EchoClient.dll
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\TD\TP1\Echo\ChatClient\bin\Debug\netcoreapp3.1\EchoClient.pdb
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\TD\TP1\Echo\ChatClient\obj\Debug\netcoreapp3.1\EchoClient.csprojAssemblyReference.cache
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\TD\TP1\Echo\ChatClient\obj\Debug\netcoreapp3.1\EchoClient.AssemblyInfoInputs.cache
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\TD\TP1\Echo\ChatClient\obj\Debug\netcoreapp3.1\EchoClient.AssemblyInfo.cs
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\TD\TP1\Echo\ChatClient\obj\Debug\netcoreapp3.1\EchoClient.csproj.CoreCompileInputs.cache
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\TD\TP1\Echo\ChatClient\obj\Debug\netcoreapp3.1\EchoClient.dll
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\TD\TP1\Echo\ChatClient\obj\Debug\netcoreapp3.1\EchoClient.pdb
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\TD\TP1\Echo\ChatClient\obj\Debug\netcoreapp3.1\EchoClient.genruntimeconfig.cache

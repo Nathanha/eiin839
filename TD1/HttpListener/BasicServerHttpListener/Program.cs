@@ -10,23 +10,15 @@ namespace BasicServerHTTPlistener
     {
         private static void Main(string[] args)
         {
-            
-
             if (!HttpListener.IsSupported)
             {
                 Console.WriteLine("A more recent Windows version is required to use the HttpListener class.");
                 return;
             }
-
+ 
+ 
             // Create a listener.
             HttpListener listener = new HttpListener();
-
-            // Trap Ctrl-C and exit 
-            Console.CancelKeyPress += delegate
-            {
-                listener.Stop();
-                System.Environment.Exit(0);
-            };
 
             // Add the prefixes.
             if (args.Length != 0)
@@ -57,6 +49,9 @@ namespace BasicServerHTTPlistener
                 HttpListenerContext context = listener.GetContext();
                 HttpListenerRequest request = context.Request;
 
+                Header header = new Header((WebHeaderCollection)request.Headers);
+                Console.WriteLine(header);
+
                 string documentContents;
                 using (Stream receiveStream = request.InputStream)
                 {
@@ -84,5 +79,79 @@ namespace BasicServerHTTPlistener
             // Httplistener neither stop ...
             // listener.Stop();
         }
+    }
+
+    internal class Header
+    {
+        WebHeaderCollection webHeaderCollection;
+
+        private string accept;
+        private string acceptCharset;
+        private string acceptEncoding;
+        private string acceptLanguage;
+        private string allow;
+        private string authorization;
+        private string cookie;
+        private string from;
+        private string userAgent;
+
+        public Header(WebHeaderCollection headerCollection)
+        {
+            this.webHeaderCollection = headerCollection;
+
+            // Les  types  MIME admis  pour la  réponse,
+            if (this.webHeaderCollection.Get("Accept") != null) this.accept = this.webHeaderCollection.Get("Accept");
+            else this.accept = null;
+
+            // Les  jeux de  caractères  admis  pour  la  réponse, 
+            if (this.webHeaderCollection.Get("Accept-Charset") != null) this.acceptCharset = this.webHeaderCollection.Get("Accept-Charset");
+            else this.acceptCharset = null;
+
+            // Les  encodages  de contenu  admis  pour  la  réponse,
+            if (this.webHeaderCollection.Get("Accept-Encoding") != null) this.acceptEncoding = this.webHeaderCollection.Get("Accept-Encoding");
+            else this.acceptEncoding = null;
+
+            // Les  langages  naturels  préférés  pour  la  réponse,
+            if (this.webHeaderCollection.Get("Accept-Language") != null) this.acceptLanguage = this.webHeaderCollection.Get("Accept-Language");
+            else this.acceptLanguage = null;
+
+            // Le  jeu  de  méthodes  HTTP  pris  en charge, 
+            if (this.webHeaderCollection.Get("Allow") != null) this.allow = this.webHeaderCollection.Get("Allow");
+            else this.allow = null;
+
+            // Les informations d’identification que le client doit présenter pour s’authentifier auprès du serveur, 
+            if (this.webHeaderCollection.Get("Authorization") != null) this.authorization = this.webHeaderCollection.Get("Authorization");
+            else this.authorization = null;
+
+            // Les données  de  cookie  présentées  au  serveur,
+            if (this.webHeaderCollection.Get("Cookie") != null) this.cookie = this.webHeaderCollection.Get("Cookie");
+            else this.cookie = null;
+
+            // L’adresse  e-mail Internet pour l’utilisateur humain qui contrôle l’agent utilisateur demandeur,
+            if (this.webHeaderCollection.Get("From") != null) this.from = this.webHeaderCollection.Get("From");
+            else this.from = null;
+
+            // Les informations relatives à l’agent client
+            if (this.webHeaderCollection.Get("User-Agent") != null) this.userAgent = this.webHeaderCollection.Get("User-Agent");
+            else this.userAgent = null;
+
+        }
+
+        public override string ToString() {
+            StringBuilder sb = new StringBuilder("");
+
+            if (this.accept != null) sb.Append("Accept : " + this.accept + "\n");
+            if (this.acceptCharset != null) sb.Append("Accept Charset : " + this.acceptCharset + "\n");
+            if (this.acceptEncoding != null) sb.Append("Accept Encoding : " + this.acceptEncoding + "\n");
+            if (this.acceptLanguage != null) sb.Append("Accept Language : " + this.acceptLanguage + "\n");
+            if (this.allow != null) sb.Append("Allow : " + this.allow + "\n");
+            if (this.authorization != null) sb.Append("Authorization : " + this.authorization + "\n");
+            if (this.cookie != null) sb.Append("Cookie : " + this.cookie + "\n");
+            if (this.from != null) sb.Append("From : " + this.from + "\n");
+            if (this.userAgent != null) sb.Append("User Agent : " + this.userAgent + "\n");
+
+            return sb.ToString();
+        }
+
     }
 }

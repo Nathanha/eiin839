@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "EchoServer": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "HTTP_ROOT": "D:\\Nathan\\Documents\\Polytech\\SI4\\S8\\Serv.Oriented Computing\\eiin839\\TD1\\Echo\\ChatServer\\www\\pub"
+      }
+    }
+  }
+}
