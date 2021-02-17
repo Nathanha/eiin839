@@ -73,27 +73,30 @@ namespace MyWebServerUrlParser
                 // get url 
                 Console.WriteLine($"Received request for {request.Url}");
 
-                Type type = typeof(Mymethods);
-                MethodInfo method = type.GetMethod(request.Url.Segments[request.Url.Segments.Length - 1]);
-                Mymethods c = new Mymethods();
-                object[] tab = new object[2];
-                tab[0] = HttpUtility.ParseQueryString(request.Url.Query).Get("param1");
-                tab[1] = HttpUtility.ParseQueryString(request.Url.Query).Get("param2");
-                string result = (string)method.Invoke(c, tab);
-                Console.WriteLine(result);
+                if (request.Url.Segments[request.Url.Segments.Length - 1] != "favicon.ico")
+                {
+                    Type type = typeof(Mymethods);
+                    MethodInfo method = type.GetMethod(request.Url.Segments[request.Url.Segments.Length - 1]);
+                    Mymethods c = new Mymethods();
+                    object[] tab = new object[2];
+                    tab[0] = HttpUtility.ParseQueryString(request.Url.Query).Get("param1");
+                    tab[1] = HttpUtility.ParseQueryString(request.Url.Query).Get("param2");
+                    string result = (string)method.Invoke(c, tab);
+                    Console.WriteLine(result);
 
-                // Obtain a response object.
-                HttpListenerResponse response = context.Response;
+                    // Obtain a response object.
+                    HttpListenerResponse response = context.Response;
 
-                // Construct a response.
-                string responseString = result;
-                byte[] buffer = System.Text.Encoding.UTF8.GetBytes(responseString);
-                // Get a response stream and write the response to it.
-                response.ContentLength64 = buffer.Length;
-                System.IO.Stream output = response.OutputStream;
-                output.Write(buffer, 0, buffer.Length);
-                // You must close the output stream.
-                output.Close();
+                    // Construct a response.
+                    string responseString = result;
+                    byte[] buffer = System.Text.Encoding.UTF8.GetBytes(responseString);
+                    // Get a response stream and write the response to it.
+                    response.ContentLength64 = buffer.Length;
+                    System.IO.Stream output = response.OutputStream;
+                    output.Write(buffer, 0, buffer.Length);
+                    // You must close the output stream.
+                    output.Close();
+                }
             }
             // Httplistener neither stop ... But Ctrl-C do that ...
             // listener.Stop();

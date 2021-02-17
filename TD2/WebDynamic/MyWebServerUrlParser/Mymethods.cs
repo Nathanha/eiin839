@@ -33,5 +33,17 @@ namespace MyWebServerUrlParser
                 }
             }
         }
+
+        public string Incr(string param1, string param2)
+        {
+            int val = int.Parse(param1) + 1;
+            StringBuilder stringBuilder = new StringBuilder();
+            stringBuilder.Append("{ \"val\": ");
+            stringBuilder.Append(val.ToString());
+            stringBuilder.Append(",");
+            stringBuilder.Append("\"success\": true");
+            stringBuilder.Append(" }");
+            return stringBuilder.ToString();
+        }
     }
 }
