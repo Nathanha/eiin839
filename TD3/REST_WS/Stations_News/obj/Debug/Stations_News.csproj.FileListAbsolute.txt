@@ -1,0 +1,16 @@
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\eiin839\TD3\REST_WS\Stations_News\bin\Debug\Stations_News.exe.config
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\eiin839\TD3\REST_WS\Stations_News\bin\Debug\Stations_News.exe
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\eiin839\TD3\REST_WS\Stations_News\bin\Debug\Stations_News.pdb
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\eiin839\TD3\REST_WS\Stations_News\bin\Debug\System.Memory.dll
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\eiin839\TD3\REST_WS\Stations_News\bin\Debug\System.Text.Json.dll
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\eiin839\TD3\REST_WS\Stations_News\bin\Debug\System.Numerics.Vectors.dll
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\eiin839\TD3\REST_WS\Stations_News\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\eiin839\TD3\REST_WS\Stations_News\bin\Debug\System.Buffers.dll
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\eiin839\TD3\REST_WS\Stations_News\bin\Debug\System.Text.Encodings.Web.dll
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\eiin839\TD3\REST_WS\Stations_News\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\eiin839\TD3\REST_WS\Stations_News\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\eiin839\TD3\REST_WS\Stations_News\obj\Debug\Stations_News.exe.config
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\eiin839\TD3\REST_WS\Stations_News\obj\Debug\Stations_News.csproj.CoreCompileInputs.cache
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\eiin839\TD3\REST_WS\Stations_News\obj\Debug\Stations_News.csproj.CopyComplete
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\eiin839\TD3\REST_WS\Stations_News\obj\Debug\Stations_News.exe
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\eiin839\TD3\REST_WS\Stations_News\obj\Debug\Stations_News.pdb
