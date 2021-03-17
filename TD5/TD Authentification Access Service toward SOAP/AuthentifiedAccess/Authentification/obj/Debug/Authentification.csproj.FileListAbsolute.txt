@@ -1,0 +1,7 @@
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\eiin839\TD5\TD Authentification Access Service toward SOAP\AuthentifiedAccess\Authentification\bin\Debug\Authentification.dll.config
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\eiin839\TD5\TD Authentification Access Service toward SOAP\AuthentifiedAccess\Authentification\bin\Debug\Authentification.dll
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\eiin839\TD5\TD Authentification Access Service toward SOAP\AuthentifiedAccess\Authentification\bin\Debug\Authentification.pdb
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\eiin839\TD5\TD Authentification Access Service toward SOAP\AuthentifiedAccess\Authentification\obj\Debug\Authentification.csprojAssemblyReference.cache
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\eiin839\TD5\TD Authentification Access Service toward SOAP\AuthentifiedAccess\Authentification\obj\Debug\Authentification.csproj.CoreCompileInputs.cache
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\eiin839\TD5\TD Authentification Access Service toward SOAP\AuthentifiedAccess\Authentification\obj\Debug\Authentification.dll
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\eiin839\TD5\TD Authentification Access Service toward SOAP\AuthentifiedAccess\Authentification\obj\Debug\Authentification.pdb

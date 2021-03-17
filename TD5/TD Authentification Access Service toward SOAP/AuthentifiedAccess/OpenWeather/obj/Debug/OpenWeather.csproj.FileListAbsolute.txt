@@ -1,0 +1,10 @@
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\eiin839\TD5\TD Authentification Access Service toward SOAP\AuthentifiedAccess\OpenWeather\bin\Debug\OpenWeather.dll.config
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\eiin839\TD5\TD Authentification Access Service toward SOAP\AuthentifiedAccess\OpenWeather\bin\Debug\OpenWeather.dll
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\eiin839\TD5\TD Authentification Access Service toward SOAP\AuthentifiedAccess\OpenWeather\bin\Debug\OpenWeather.pdb
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\eiin839\TD5\TD Authentification Access Service toward SOAP\AuthentifiedAccess\OpenWeather\obj\Debug\OpenWeather.csprojAssemblyReference.cache
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\eiin839\TD5\TD Authentification Access Service toward SOAP\AuthentifiedAccess\OpenWeather\obj\Debug\OpenWeather.csproj.CoreCompileInputs.cache
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\eiin839\TD5\TD Authentification Access Service toward SOAP\AuthentifiedAccess\OpenWeather\obj\Debug\OpenWeather.dll
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\eiin839\TD5\TD Authentification Access Service toward SOAP\AuthentifiedAccess\OpenWeather\obj\Debug\OpenWeather.pdb
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\eiin839\TD5\TD Authentification Access Service toward SOAP\AuthentifiedAccess\OpenWeather\bin\Debug\Newtonsoft.Json.dll
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\eiin839\TD5\TD Authentification Access Service toward SOAP\AuthentifiedAccess\OpenWeather\bin\Debug\Newtonsoft.Json.xml
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\eiin839\TD5\TD Authentification Access Service toward SOAP\AuthentifiedAccess\OpenWeather\obj\Debug\OpenWeather.csproj.CopyComplete

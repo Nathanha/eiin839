@@ -1,0 +1,7 @@
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\eiin839\TD5\WcfServiceLibraryIntroduction\WcfServiceLibraryIntroduction\bin\Debug\WcfServiceLibraryIntroduction.dll.config
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\eiin839\TD5\WcfServiceLibraryIntroduction\WcfServiceLibraryIntroduction\bin\Debug\WcfServiceLibraryIntroduction.dll
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\eiin839\TD5\WcfServiceLibraryIntroduction\WcfServiceLibraryIntroduction\bin\Debug\WcfServiceLibraryIntroduction.pdb
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\eiin839\TD5\WcfServiceLibraryIntroduction\WcfServiceLibraryIntroduction\obj\Debug\WcfServiceLibraryIntroduction.csprojAssemblyReference.cache
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\eiin839\TD5\WcfServiceLibraryIntroduction\WcfServiceLibraryIntroduction\obj\Debug\WcfServiceLibraryIntroduction.csproj.CoreCompileInputs.cache
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\eiin839\TD5\WcfServiceLibraryIntroduction\WcfServiceLibraryIntroduction\obj\Debug\WcfServiceLibraryIntroduction.dll
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\eiin839\TD5\WcfServiceLibraryIntroduction\WcfServiceLibraryIntroduction\obj\Debug\WcfServiceLibraryIntroduction.pdb

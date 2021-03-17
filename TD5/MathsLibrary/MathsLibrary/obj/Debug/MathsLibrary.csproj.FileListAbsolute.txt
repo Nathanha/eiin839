@@ -1,0 +1,7 @@
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\eiin839\TD5\MathsLibrary\MathsLibrary\bin\Debug\MathsLibrary.dll.config
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\eiin839\TD5\MathsLibrary\MathsLibrary\bin\Debug\MathsLibrary.dll
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\eiin839\TD5\MathsLibrary\MathsLibrary\bin\Debug\MathsLibrary.pdb
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\eiin839\TD5\MathsLibrary\MathsLibrary\obj\Debug\MathsLibrary.csprojAssemblyReference.cache
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\eiin839\TD5\MathsLibrary\MathsLibrary\obj\Debug\MathsLibrary.csproj.CoreCompileInputs.cache
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\eiin839\TD5\MathsLibrary\MathsLibrary\obj\Debug\MathsLibrary.dll
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\eiin839\TD5\MathsLibrary\MathsLibrary\obj\Debug\MathsLibrary.pdb
