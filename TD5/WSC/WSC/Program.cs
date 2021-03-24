@@ -10,7 +10,7 @@ namespace WSC
     {
         static void Main(string[] args)
         {
-            MathsOperations.IMathsOperations mathsOperations = new MathsOperations.MathsOperationsClient();
+            MathsOperations.IMathsOperations mathsOperations = new MathsOperations.MathsOperationsClient("SoapEndPnt1");
             Console.WriteLine("--- 10 + 2 ---");
             Console.WriteLine(mathsOperations.Add(10, 2));
             Console.WriteLine("--- 10 * 2 ---");

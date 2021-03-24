@@ -1,0 +1,7 @@
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\eiin839\TD5\WSC\WSC3\bin\Debug\WSC3.exe.config
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\eiin839\TD5\WSC\WSC3\bin\Debug\WSC3.exe
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\eiin839\TD5\WSC\WSC3\bin\Debug\WSC3.pdb
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\eiin839\TD5\WSC\WSC3\obj\Debug\WSC3.csprojAssemblyReference.cache
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\eiin839\TD5\WSC\WSC3\obj\Debug\WSC3.csproj.CoreCompileInputs.cache
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\eiin839\TD5\WSC\WSC3\obj\Debug\WSC3.exe
+D:\Nathan\Documents\Polytech\SI4\S8\Serv.Oriented Computing\eiin839\TD5\WSC\WSC3\obj\Debug\WSC3.pdb
